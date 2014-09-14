@@ -10,7 +10,7 @@ HOW TO INSTALL:
 
 If the theme displays correctly - you're good to go! 
 
-5) Go to System Settings -> LightDM - > choose Experience from the list, hit Apply, type your password and log out. 
+5) Go to System Settings -> LightDM - > choose Miry from the list, hit Apply, type your password and log out. 
 
 HOPE YOU LIKE IT! :)
 
