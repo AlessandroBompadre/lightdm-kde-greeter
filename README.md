@@ -1,4 +1,4 @@
-This git lightdm-kde-greeter is thinked to better fit with  Potenza iconset
+This lightdm-kde-greeter is thinked to better fit with  Potenza iconset
 
 HOW TO INSTALL:
 
